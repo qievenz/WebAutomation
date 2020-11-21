@@ -1,0 +1,8 @@
+#Ignorar entorno virtual
+venv/
+.vscode/
+__pycache__/
+Modules/__pycache__/
+*.log
+config/*
+*test.py
